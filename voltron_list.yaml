@@ -2,6 +2,41 @@ genericVoltron: &voltron
     title: This is a compiled collection of god/recommended rolls from top community minds.
     description: Thanks to u/Mercules904, u/pandapaxxy, u/HavocsCall, and @chrisfried for their contributions. Ping u/48klocs / @48klocs with any issues.
 definitions:
+    originalVoltron:
+        - mercules_erentil_and_opulence_iron_banner.txt
+        - mercules_menagerie.txt
+        - mercules_crown_of_sorrow.txt
+        - panda_penumbra_pvp.txt
+        - panda_penumbra_pve.txt
+        - mercules_gambit_rolls.txt
+        - mercules_iron_banner.txt
+        - mercules_iron_banner_bonus.txt
+        - mercules_last_wish_rolls.txt
+        - mercules_black_armory_and_sotp_rolls.txt
+        - mercules_black_armory_pulse_bow.txt
+        - panda_black_armory_picks.txt
+        - panda_missing_black_armory_pve.txt
+        - panda_missing_black_armory_pvp.txt
+        - panda_season_drifter_pvp.txt
+        - panda_season_drifter_pve.txt
+        - armor_1_picks.txt
+        - panda_shadowkeep_pve.txt
+        - mercules_vex_offensive_breakdown.txt
+        - mercules_undying_season_pass_picks.txt
+        - mercules_altar_of_sorrow.txt
+        - panda_pit_and_altar.txt
+        - panda_dawn_ritual.txt
+        - panda_sundial_mkb.txt
+        - panda_sundial_controller.txt
+        - panda_dawning_mkb.txt
+        - mercules_season_of_dawn_season_pass_breakdown.txt
+        - panda_dawning_controller.txt
+        - mercules_osiris_redux.txt
+        - panda_returning_dawn_mkb.txt
+        - panda_returning_dawn_controller.txt
+        - mercules_garden_of_salvation.txt
+        - panda_salvation_pve.txt
+        - panda_salvation_pvp.txt
     pandaPvP:
         - panda_black_armory_pvp_picks.txt  
         - panda_missing_black_armory_pvp.txt  
@@ -85,5 +120,10 @@ outputFiles:
             - pandaPvP
             - pandaController
             - trash_lists
-
-
+    voltron:
+        fileGroups:
+            - originalVoltron
+    choosy_voltron:
+        fileGroups:
+            - originalVoltron
+            - trash_lists
