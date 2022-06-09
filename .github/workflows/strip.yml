@@ -40,11 +40,11 @@ jobs:
         with:
           ref: generated
           path: generated
-      - name: Commit voltron.txt into generated branches
+      - name: Commit voltron.txt into generated branch
         run: |
           cp voltron.txt generated/
           cd generated
-          git config user.name github-actions
+          git config user.name automation
           git config user.email github-actions@github.com
           git add voltron.txt
           git commit -m 'Update voltron.txt'
