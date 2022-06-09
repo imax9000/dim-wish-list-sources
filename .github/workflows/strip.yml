@@ -3,8 +3,9 @@ name: "Publish stripped voltron.txt"
 on:
   push:
     branches:
-      - master
       - automation
+  schedule:
+    - cron: "27 0 * * *"
   workflow_dispatch:
 
 jobs:
