@@ -1,0 +1,6 @@
+version: "1"
+rules:
+  - base: master
+    upstream: 48klocs:master
+    mergeMethod: hardreset
+
