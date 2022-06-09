@@ -33,7 +33,20 @@ jobs:
         with:
           go-version: '>=1.17.0'
       - name: Generate new wishlist with perks only from 3rd and 4th columns
-        run: go run strip.go --manifest=manifest.json --wishlist=master/voltron.txt > voltron.txt
+        run: |
+          go run strip.go --manifest=manifest.json \
+            --wishlist=master/voltron.txt \
+            --set_title="Stripped voltron" \
+            --set_description="DIM's default wishlist, but with perks only from 3rd and 4th column. https://github.com/imax9000/dim-wish-list-sources/" \
+            > voltron.txt
+      - name: Generate new wishlist with perks only from 3rd and 4th columns
+        run: |
+          go run strip.go --manifest=manifest.json \
+            --wishlist=master/voltron.txt \
+            --set_title="Stripped voltron" \
+            --set_description="DIM's default wishlist, but with perks only from 3rd and 4th column. https://github.com/imax9000/dim-wish-list-sources/" \
+            --append_to_notes=" [3rd&4th columns only]" \
+            > voltron_flagged.txt
       # - name: Upload generated wishlist to artifact storage
       #   uses: actions/upload-artifact@v3
       #   with:
@@ -46,14 +59,14 @@ jobs:
         with:
           ref: generated
           path: generated
-      - name: Commit voltron.txt into generated branch
+      - name: Commit wishlists into generated branch
         run: |
-          cp voltron.txt generated/
+          cp *.txt generated/
           cd generated
           git config user.name automation
           git config user.email github-actions@github.com
-          git add voltron.txt
+          git add *.txt
           if ! git diff-index --quiet HEAD; then
-            git commit -m 'Update voltron.txt'
+            git commit -m 'Update generated files'
             git push
           fi

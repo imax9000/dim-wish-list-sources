@@ -14,13 +14,19 @@ import (
 )
 
 var (
-	manifestPath = flag.String("manifest", "manifest.json", "Path to the manifest")
-	wishlistPath = flag.String("wishlist", "", "Path to the wishlist")
+	manifestPath   = flag.String("manifest", "manifest.json", "Path to the manifest")
+	wishlistPath   = flag.String("wishlist", "", "Path to the wishlist")
+	setTitle       = flag.String("set_title", "", "If not empty, will be used to overwrite the title of the wishlist")
+	setDescription = flag.String("set_description", "", "If not empty, will be used to overwrite the description of the wishlist")
+	appendToNotes  = flag.String("append_to_notes", "", "A string to add to the notes of the modified items")
 )
 
 const (
 	weaponPerksCategoryHash int64 = 4241085061
 	wishlistItemPrefix            = "dimwishlist:"
+	titlePrefix                   = "title:"
+	descriptionPrefix             = "description:"
+	blockNotesPrefix              = "//notes:"
 )
 
 type Manifest struct {
@@ -119,30 +125,52 @@ func (i Item) PlugSetHashes() ([]int64, error) {
 func filterWishlist(wishlist io.Reader, out io.Writer, manifest *Manifest) error {
 	scanner := bufio.NewScanner(wishlist)
 	lines := []string{}
-	process := func(lines []string) {
+	process := func(lines []string, blockNotes string) {
 		filtered, err := filterItemSet(lines, manifest)
 		if err != nil {
 			log.Println(err)
 			filtered = lines // So we write out the original entries
+		} else {
+			blockNotes = maybeModifyNotes(blockNotes)
+		}
+		if blockNotes != "" {
+			fmt.Fprintln(out, blockNotesPrefix+blockNotes)
 		}
 		for _, l := range filtered {
 			fmt.Fprintln(out, l)
 		}
 	}
+	titleOverride := *setTitle
+	descriptionOverride := *setDescription
+	blockNotes := ""
 	for scanner.Scan() {
 		line := scanner.Text()
-		if strings.HasPrefix(line, wishlistItemPrefix) {
+		switch {
+		case strings.HasPrefix(line, wishlistItemPrefix):
 			lines = append(lines, line)
+			continue
+		case titleOverride != "" && strings.HasPrefix(line, titlePrefix):
+			fmt.Fprintln(out, titlePrefix+titleOverride)
+			titleOverride = "" // To avoid needlessly overwriting all further titles.
+			continue
+		case descriptionOverride != "" && strings.HasPrefix(line, descriptionPrefix):
+			fmt.Fprintln(out, descriptionPrefix+descriptionOverride)
+			descriptionOverride = "" // To avoid needlessly overwriting all further descriptions.
 			continue
 		}
 
 		// We're at a non-item line, process what we have accumulated so far.
 		if len(lines) > 0 {
-			process(lines)
+			process(lines, blockNotes)
 			lines = nil
 		}
+		blockNotes = ""
 
-		fmt.Fprintln(out, line)
+		if strings.HasPrefix(line, blockNotesPrefix) {
+			blockNotes = strings.TrimPrefix(line, blockNotesPrefix)
+		} else {
+			fmt.Fprintln(out, line)
+		}
 	}
 	if err := scanner.Err(); err != nil {
 		return fmt.Errorf("reading wishlist: %w", err)
@@ -150,7 +178,7 @@ func filterWishlist(wishlist io.Reader, out io.Writer, manifest *Manifest) error
 
 	// Process the last set in the file.
 	if len(lines) > 0 {
-		process(lines)
+		process(lines, blockNotes)
 	}
 	return nil
 }
@@ -269,10 +297,22 @@ func dedupeByPerkSets(entries []wishlistEntry) []wishlistEntry {
 			n = append(n, note)
 		}
 		sort.Strings(n)
-		entry.Notes = strings.Join(n, ";")
+		if len(n) > 0 {
+			entry.Notes = maybeModifyNotes(strings.Join(n, ";"))
+		}
 		ret[i] = entry
 	}
 	return ret
+}
+
+func maybeModifyNotes(notes string) string {
+	if *appendToNotes == "" {
+		return notes
+	}
+
+	parts := strings.SplitN(notes, "|", 2)
+	parts[0] += *appendToNotes
+	return strings.Join(parts, "|")
 }
 
 func main() {
