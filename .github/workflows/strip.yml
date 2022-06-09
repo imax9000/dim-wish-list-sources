@@ -12,6 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       id-token: write
+      pages: write
     steps:
       - uses: actions/checkout@v3
       - name: Checkout master branch into a subdir
