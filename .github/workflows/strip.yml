@@ -47,13 +47,6 @@ jobs:
             --set_description="DIM's default wishlist, but with perks only from 3rd and 4th column. https://github.com/imax9000/dim-wish-list-sources/" \
             --append_to_notes=" [3rd&4th columns only]" \
             > voltron_flagged.txt
-      # - name: Upload generated wishlist to artifact storage
-      #   uses: actions/upload-artifact@v3
-      #   with:
-      #     name: voltron
-      #     path: voltron.txt
-      # - name: Deploy generated wishlist to pages
-      #   uses: actions/deploy-pages@v1
       - name: Checkout generated branch into a subdir
         uses: actions/checkout@v3
         with:
