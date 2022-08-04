@@ -46,6 +46,8 @@ jobs:
           go-version: '>=1.17.0'
       - name: Generate new wishlist with perks only from 3rd and 4th columns
         run: |
+          ls -la .
+          ls -la _site
           go run strip.go --manifest=manifest.json \
             --wishlist=master/voltron.txt \
             --set_title="Stripped voltron" \
