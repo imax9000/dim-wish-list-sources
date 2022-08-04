@@ -33,6 +33,32 @@ jobs:
         with:
           source: ./
           destination: ./_site
+      - name: Checkout master branch into a subdir
+        uses: actions/checkout@v3
+        with:
+          ref: master
+          path: master
+      - name: Fetch Destiny 2 item database
+        run: ./fetch_manifest.sh manifest.json
+      - name: Setup Go compiler
+        uses: actions/setup-go@v3
+        with:
+          go-version: '>=1.17.0'
+      - name: Generate new wishlist with perks only from 3rd and 4th columns
+        run: |
+          go run strip.go --manifest=manifest.json \
+            --wishlist=master/voltron.txt \
+            --set_title="Stripped voltron" \
+            --set_description="DIM's default wishlist, but with perks only from 3rd and 4th column. https://github.com/imax9000/dim-wish-list-sources/" \
+            > ./_site/voltron.txt
+      - name: Generate new wishlist with perks only from 3rd and 4th columns
+        run: |
+          go run strip.go --manifest=manifest.json \
+            --wishlist=master/voltron.txt \
+            --set_title="Stripped voltron" \
+            --set_description="DIM's default wishlist, but with perks only from 3rd and 4th column. https://github.com/imax9000/dim-wish-list-sources/" \
+            --append_to_notes=" [3rd&4th columns only]" \
+            > ./_site/voltron_flagged.txt
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
 
