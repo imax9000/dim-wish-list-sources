@@ -2,6 +2,65 @@ title:Stripped voltron
 description:DIM's default wishlist, but with perks only from 3rd and 4th column. https://github.com/imax9000/dim-wish-list-sources/
 
 
+// originally found at https://github.com/liminalAce/wishlists/blob/main/datto_lightfall.txt
+
+title:Datto's early thoughts on lightfall weapons.
+description:Original video at https://www.youtube.com/watch?v=JlV7QZ5P0Mk
+
+//Round Robin
+//notes: Datto's Thoughts, Round Robin is a strand, 120 RPM hand cannon. We have a lot of new perks with Lightfall and arguably one of the top rolls on this gun consists of 2 new perks: Keep Away and Hatchling. Keep Away is the opposite of Threat Detector, you get bonus stats when there is NOTHING near you, minus allies. Hatchling is where precision final blows or rapid non-precision kills spawn a Threadling at the target's location. In the first column, we have soem good stuff, Keep Away, Subsistence and Envious Assassin, another good perk, where rapidly killing targets with other guns will transfer ammo into this gun from reserves and this can overflow the magazine. At the moment, I feel like this is much more of a special weapon type perk, but I wouldn't begrudge you for using it as we feel it out. The second column has Hatchling, Kill Clip and Golden Tricorn. Golden Tricorn is definitely a bit better of a pick now thanks to 3.0 subclasses and the general up time you can have on grenades and melees nowadays. I think Hatchling is quite popular right now because it's new and it links up with Strand and there are Strand fragments to buff Threadlings, so if it fits with your build, it is certainly worth a try. Threadlings WILL proc Golden Tricorn if they are from Threadling Grenade. This gun just kicks pretty hard, it's a 120 so that makes sense, so I'm gonna be going with stability based minor perks and masterwork. I have heard good things about this gun in PvP with Keep Away and Kill Clip, but I have not tested it myself just yet. Again, it does kick pretty hard. pve. https://www.youtube.com/watch?v=JlV7QZ5P0Mk&t=43s [3rd&4th columns only]
+dimwishlist:item=2034215657&perks=3619207468,831391274
+dimwishlist:item=2034215657&perks=3619207468,2610012052
+
+//Volta Bracket
+//notes: Datto's Thoughts, Volta Bracket is a Strand Sniper, 72 RPM so a slower one, gonna be lower DPS, but higher total damage on average. I think the only PvE roll here is for the sniper copium addicts and that is Triple Tap or Envious Assassin and Firing Line. Pretty much any other option on this gun is for specialty use only. If you wanna use Hatchling for some sort of a build, cool, but snipers haven't received any significant changes and are still not very popular picks for most of PvE right now. Looking at range based perks or magazine based perks if used for single target damage purposes. pve. https://www.youtube.com/watch?v=JlV7QZ5P0Mk&t=150s [3rd&4th columns only]
+dimwishlist:item=3920310144&perks=3400784728,1771339417
+dimwishlist:item=3920310144&perks=968510818,1771339417
+
+//Phyllotactic Spiral
+//notes: Datto's Thoughts, Phyllotactic Spiral is an arc energy pulse, 340 RPM. This thing feels like it can get some pretty decent rolls, but I think Voltshot for PvE is just too nice to pass up. If you're going Voltshot in the second column, I'm gonna call an audible for lower end PvE content and go with Compulsive Reloader, since I feel like the goal with Voltshot is either hitting a big target with jolt and tagging a bunch of stuff around it with the AoE portion, which would make CR not good, or just mowing through little dinker enemies and constantly proccing it over and over. If you're doing the second thing, I'd try out Compulsive. In higher end content, I'm probably looking at Keep Away, maybe Tunnel Vision, but I don't think that's super important in PvE. Kill Clip and Frenzy are also on this thing, but I think Voltshot is just too good. I'm looking at range or reload speed for masterwork and then your choice of either magazine or range minor perks. pve. https://www.youtube.com/watch?v=JlV7QZ5P0Mk&t=192s [3rd&4th columns only]
+dimwishlist:item=3635821806&perks=671806388,2173046394
+dimwishlist:item=3635821806&perks=3619207468,2173046394
+
+//Iterative Loop
+//notes: Datto's Thoughts, Iterative Loop is an arc fusion rifle, rapid-fire frame, so 500 charge time. This is the first time I think we've seen a fusion with Voltshot, but honestly, besides Demolitionist, I'm not too thrilled with many of the other second column perks anyway, so we're probably going Voltshot regardless. In the first column, we got options, Lead From Gold, Killing Wind, but again, I'm calling an audible in Compulsive Reloader. You want to proc Voltshot a LOT on guns with Voltshot and fusion are pretty good at killing stuff in the top half of the magazine. But, I can understand if you wanna roll with something else. Reload masterwork as well, with Accelerated Coils or Enhanced Battery and probably Arrowhead Brake for recoil control. pve. https://www.youtube.com/watch?v=JlV7QZ5P0Mk&t=253s [3rd&4th columns only]
+dimwishlist:item=1289796511&perks=671806388,2173046394
+dimwishlist:item=1289796511&perks=1556840489,2173046394
+dimwishlist:item=1289796511&perks=1556840489,3523296417
+
+//Dimensional Hypotrochoid
+//notes: Datto's Thoughts, Dimensional Hypotrochoid is the first wave frame grenade launcher in the heavy slot, it is stasis based. First column, Envious Assassin seems like a really easy pick given you're probably not gonna be doing most of your killing with this gun, but Stats for All isn't too bad of a pick either, along with Field Prep, even Unrelenting isn't the worst thing here, you have a lot of options, but I'm personally gonna take Envious Assassin. Second column, we have Chain Reaction, a big favorite and a good perk, One for All and... that's really about it for me, I'm not a huge fan of Vorpal anymore now that it's only 10% on bosses for power weapons. I dunno if I'm the hugest fan of this gun just yet in general though, I feel like special waveframe GLs are kinda getting the job done. Blast Radius is good for your minor perks. pve. https://www.youtube.com/watch?v=JlV7QZ5P0Mk&t=297s [3rd&4th columns only]
+dimwishlist:item=1311684613&perks=968510818,2396489472
+dimwishlist:item=1311684613&perks=968510818,4049631843
+dimwishlist:item=1311684613&perks=1583705720,4049631843
+dimwishlist:item=1311684613&perks=1583705720,2396489472
+dimwishlist:item=1311684613&perks=2869569095,4049631843
+
+// Synchronic Roulette
+//notes: Datto's Thoughts, Synchronic Roulette. This is a Strand SMG, 600 RPM, so slower firing and wouldn't you know it, it too has Hatchling as a perk and I'm pretty sure that is the overwhelming favorite right now. In the first column, we have some decent options, Envious Assassin, Keep Away, Pulse Monitor, I might skew towards Pulse Monitor or Under Pressure. Again, Envious on a primary I'm not completely sold on, but it's not like it's a BAD option or anything like that. This might be more of a "pick what you like," kind of option, except for Slickdraw, don't pick that. Pugilist in the second column is also somewhat of an option for those of you with Strand builds as they can to be pretty melee focused. We're looking for range in our minor perks, little Arrowhead Brake again and either range or stability depending on your preference. pve. https://www.youtube.com/watch?v=JlV7QZ5P0Mk&t=353s [3rd&4th columns only]
+dimwishlist:item=811403305&perks=972757866,831391274
+dimwishlist:item=811403305&perks=1645158859,831391274
+dimwishlist:item=811403305&perks=968510818,831391274
+dimwishlist:item=811403305&perks=3619207468,831391274
+
+
+// Basso Ostinato
+//notes: Datto's Thoughts, Basso Ostinato, a void shotgun, 140 RPM, rapid fire. Shotguns in PvE world are a bit weird, not really super popular at the moment, but I feel like with the difficulty increases, they're going to be a better mid-tier difficulty weapon class, stuff that's around -10, -15. In any case, This gun has 3 premier perks in the second column, One Two Punch, Trench Barrel, and new with Lightfall, Destabilizing Rounds, where final blows cause nearby targets to become Volatile. Anything with the word Volatile immediately is gonna perk some ears up and this is definitely the most popular perk on this gun at the moment for you void enjoyers out there. That being said, after running with this gun and this perk for a little bit, I wasn't exactly the most impressive, but I also wasn't optimized for its use pretty much at all, so there's probably some more investigating to be done. However, I'm skeptical. In the first column, Envious Assassin isn't a bad choice at all, Lead from Gold also getting a lot of love here, although I dunno if it's my favorite. Don't sleep on Grave Robber either, you're gonna be in melee range with this thing anyway so might as well get some free reloads. I think One-Two Punch is probably better on a harder hitting shotty, the faster ones feel like a more trigger happy kinda gun. You can certainly make arguments for both rapid fire and high impact shotguns in terms of 1-2 Punch viability. I think most people are gonna hunt Destabilizing Rounds to try them out while the perk is still new though, but if it ends up not being good, then 1-2 Punch or Trench Barrel. Magazine perks and range are good for your minor perks. pve. https://www.youtube.com/watch?v=JlV7QZ5P0Mk&t=412s [3rd&4th columns only]
+dimwishlist:item=2573900604&perks=968510818,2360754333
+dimwishlist:item=2573900604&perks=968510818,2679249093
+dimwishlist:item=2573900604&perks=968510818,2048641572
+dimwishlist:item=2573900604&perks=1556840489,2679249093
+dimwishlist:item=2573900604&perks=1556840489,2048641572
+dimwishlist:item=2573900604&perks=1631667848,2048641572
+
+// Circular Logic
+//notes: Datto's Thoughts, Circular Logic, a strand machine gun, 450 RPM, which is pretty good. Why don't you take a guess as to what the most popular perk is here? If you said Hatchling, you'd be right. People wanting to experiment with Threadlings and consider how quickly you'll be able to mow down targets with a machine gun, I totally get the appeal. Fortunately the perks in the first column make things pretty simple: Feeding Frenzy, Envious Assassin and Keep Away are all good choices, but I'm probably leaning towards Feeding Frenzy or Envious Assassin. I'd say FF because I'm imagining the way that I would use this gun, which is basically as a primary weapon thanks to the reserves buff that machine guns got, and thus would never get to proc Envious Assassin in the first place. Target Lock is technically also an option thanks to the origin trait on these guns, but this perk turns the gun into more of a single target boss damage weapon vs. an add clear weapon. Interesting idea if you're looking for something to fit that niche. pve. https://www.youtube.com/watch?v=JlV7QZ5P0Mk&t=525s [3rd&4th columns only]
+dimwishlist:item=2187717691&perks=2779035018,831391274
+dimwishlist:item=2187717691&perks=968510818,831391274
+dimwishlist:item=2187717691&perks=3619207468,831391274
+dimwishlist:item=2187717691&perks=968510818,365154968
+dimwishlist:item=2187717691&perks=968510818,2610012052
+
 title:u/pandapaxxy's Season 19, World Drops M+KB Breakdown
 description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/zokp78/season_19_world_drops/
 
