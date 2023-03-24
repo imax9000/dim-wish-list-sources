@@ -2,6 +2,169 @@ title:Stripped voltron
 description:DIM's default wishlist, but with perks only from 3rd and 4th column. https://github.com/imax9000/dim-wish-list-sources/
 
 
+title:Datto's Defiance Weapon Rolls
+description:Rolls from https://www.youtube.com/watch?v=nEVp6Fz0lTk
+
+// Raconteur - Raconteur (pve,mkb)
+//notes: Datto (PvE, MKB): "Unsurprisingly, the favorite here is still Archer's Tempo. [...] I don't think there's anything in the 1st column besides maybe Stats for All that I care about whatsoever. Maybe Wellspring. Shoot to Loot is definitely an option for you Master and GM content runners though, more of a specialty thing, not really needed for general content. In the second column, Explosive Head for that PvE damage bump is pretty solid, along with Headstone for any sort of Stasis builds that you might wanna be using if you are not using Ager's Scepter or Verglas Curve the new season 20 bow for whatever reasons. Are things like Rampage and Successful Warm-up also ok, of course they are, they are totally reasonable perks to use as well. But the roll I'm looking for here would be Archer's and Explosive, unless I'm running Stasis where I want Headstone. Go for some form of Arrow Shaft and Tactile or Agile string, draw time masterwork is fine."|tags:pve,mkb
+dimwishlist:item=45643573&perks=201365942,124408337
+dimwishlist:item=45643573&perks=201365942,1171887445
+dimwishlist:item=45643573&perks=201365942,1551736345
+dimwishlist:item=45643573&perks=201365942,3365897133
+dimwishlist:item=45643573&perks=201365942,617966211
+dimwishlist:item=45643573&perks=201365942,288411554
+dimwishlist:item=45643573&perks=201365942,2652708987
+dimwishlist:item=45643573&perks=201365942,3425386926
+dimwishlist:item=45643573&perks=3523746922,124408337
+dimwishlist:item=45643573&perks=3523746922,1171887445
+dimwishlist:item=45643573&perks=3523746922,1551736345
+dimwishlist:item=45643573&perks=3523746922,3365897133
+dimwishlist:item=45643573&perks=3523746922,617966211
+dimwishlist:item=45643573&perks=3523746922,288411554
+dimwishlist:item=45643573&perks=3523746922,2652708987
+dimwishlist:item=45643573&perks=3523746922,3425386926
+
+
+// Regnant - Regnant (mkb,pve)
+//notes: Datto (PvE, MKB): "First column, Auto-Loading or Envious Assassin are the top choices, but for different reasons. You want Auto for any sort of weapon swap meta or in stuff where you want the convenience of an auto reload, you want Envious for times where you need the ability to lay into something with as many grenades as humanly possible. It varies from activity to activity in terms of what you actually want or need though. Second column, the choice is quite clear: Explosive Light. Orbs drive one of the main engines of buildcrafting right now and therefore, orbs of power should basically be everywhere, which means you might as well just be getting a near permanent damage bonus to your GL. The only other thing I'm considering is Destabilizing Rounds, which is purple Incandescent more or less, but I am STILL not sold on the perk just yet, not until I try out some void build stuff in the future. Spike Grenade is a good choice provided you're hitting targets directly with grenades, but most other things aren't too great, and then we'd like some sort of Blast Radius increase, with the Masterwork being up to you for the most part. Handling is good for both Auto-Loading and Envious, velocity is fine, blast radius is fine, probably not reload though."|tags:mkb,pve
+dimwishlist:item=268260372&perks=424370782,3194351027
+dimwishlist:item=268260372&perks=424370782,2275087323
+dimwishlist:item=268260372&perks=424370782,1926441324
+dimwishlist:item=268260372&perks=424370782,2048641572
+dimwishlist:item=268260372&perks=3528046508,3194351027
+dimwishlist:item=268260372&perks=3528046508,2275087323
+dimwishlist:item=268260372&perks=3528046508,1926441324
+dimwishlist:item=268260372&perks=3528046508,2048641572
+dimwishlist:item=268260372&perks=3300816228,3194351027
+dimwishlist:item=268260372&perks=3300816228,2275087323
+dimwishlist:item=268260372&perks=3300816228,1926441324
+dimwishlist:item=268260372&perks=3300816228,2048641572
+dimwishlist:item=268260372&perks=968510818,3194351027
+dimwishlist:item=268260372&perks=968510818,2275087323
+dimwishlist:item=268260372&perks=968510818,1926441324
+dimwishlist:item=268260372&perks=968510818,2048641572
+
+
+// Prodigal Return - Prodigal Return (mkb,pve)
+//notes: Datto (PvE, MKB): "Gonna be tough to beat out Salvager's Salvo [...] I think a lot of people are gonna see Envious and Voltshot and will just call it a day, I dunno about that though. If you do wanna go with Envious, then I would say Voltshot has a bit of negative synergy. Voltshot asks you to reload a lot,but the whole point of Envious is to sort of use it like an auto-loading holster type perk. I'd probably pick something else like Demolitionist, even if Demo only gets 10% energy per kill on special GLs. Lead From Gold is also not too bad of an idea here to keep ammo counts high. If you DO want Voltshot, then I'd want stuff that increases reload speed to just lay out as many grenades as possible, even going as far as going Field Prep if you remember to crouch, although Field Prep is not the most condusive perk if you use a GL like I do, which is a lot of jumping up and down. Even Threat Detector, lot of content out there now that has you surrounded by enemies. Definitely gotta take blinding err, disorienting grenades they're called now, something like disorient/envious/demo works quite well. If you want Voltshot, focus on reload speed. LoI don't think you need Spike nades here, this isn't a power GL."|tags:mkb,pve
+dimwishlist:item=268260373&perks=968510818,3523296417
+dimwishlist:item=268260373&perks=968510818,1906147653
+dimwishlist:item=268260373&perks=968510818,1720528630
+dimwishlist:item=268260373&perks=968510818,2173046394
+dimwishlist:item=268260373&perks=968510818,3425386926
+dimwishlist:item=268260373&perks=968510818,288411554
+dimwishlist:item=268260373&perks=968510818,2422968039
+dimwishlist:item=268260373&perks=968510818,11612903
+dimwishlist:item=268260373&perks=424370782,3523296417
+dimwishlist:item=268260373&perks=424370782,1906147653
+dimwishlist:item=268260373&perks=424370782,1720528630
+dimwishlist:item=268260373&perks=424370782,2173046394
+dimwishlist:item=268260373&perks=424370782,3425386926
+dimwishlist:item=268260373&perks=424370782,288411554
+dimwishlist:item=268260373&perks=424370782,2422968039
+dimwishlist:item=268260373&perks=424370782,11612903
+dimwishlist:item=268260373&perks=3442762221,3523296417
+dimwishlist:item=268260373&perks=3442762221,1906147653
+dimwishlist:item=268260373&perks=3442762221,1720528630
+dimwishlist:item=268260373&perks=3442762221,2173046394
+dimwishlist:item=268260373&perks=3442762221,3425386926
+dimwishlist:item=268260373&perks=3442762221,288411554
+dimwishlist:item=268260373&perks=3442762221,2422968039
+dimwishlist:item=268260373&perks=3442762221,11612903
+dimwishlist:item=268260373&perks=1556840489,3523296417
+dimwishlist:item=268260373&perks=1556840489,1906147653
+dimwishlist:item=268260373&perks=1556840489,1720528630
+dimwishlist:item=268260373&perks=1556840489,2173046394
+dimwishlist:item=268260373&perks=1556840489,3425386926
+dimwishlist:item=268260373&perks=1556840489,288411554
+dimwishlist:item=268260373&perks=1556840489,2422968039
+dimwishlist:item=268260373&perks=1556840489,11612903
+
+
+// Perpetualis - Perpetualis (pve,mkb)
+//notes: Datto (PvE, MKB): "Obviously the main appeal here is Hatchling for any sort of Strand based builds, although I'd argue that Hatchling is more important on Warlock than Titan or Hunter. [...] Envious Assassin seems very appealing. Loads more ammo into the gun, but you gotta get some kills with other weapons and they gotta be rapid kills. If you're using a machine gun, it's a good perk on a different gun, like this one, but I don't think it's the instalock perk that some people may think it is. It's good though. Keep Away is another solid option, but I think it kinda depends on the content. You're using an auto-rifle, you do need to be SOMEWHAT close to things and that might prevent this perk from activating. Elemental Capacitor, ehh, not for strand in my opinion, for PvE anyway. I guess I'm probably going Envious still, the rest of the roster is eh. Second column, Hatchling if you're doing a Threadling build, but if you're not, it's not like it's the worst choice you can possibly make and I think a lot of people are gonna go for it anyway. Target Lock I'm not sold on unless you're doing higher level content where things aren't gonna die as quickly. I would say don't sleep on Golden Tricorn because Strand can proc Golden Tricorn x2 REALLY easily and that's a very significant damage boost that can have a lot of up time. Demolitionist is also not too bad of an idea, but if I'm getting Demo, then I'm gonna use the raid auto, which feels like a laser beam. Go for Arrowhead Brake, Accurized and Range masterwork."|tags:pve,mkb
+dimwishlist:item=392008588&perks=968510818,102912326
+dimwishlist:item=392008588&perks=968510818,4290541820
+dimwishlist:item=392008588&perks=968510818,2939589096
+dimwishlist:item=392008588&perks=968510818,365154968
+dimwishlist:item=392008588&perks=968510818,2610012052
+dimwishlist:item=392008588&perks=968510818,831391274
+dimwishlist:item=392008588&perks=3619207468,102912326
+dimwishlist:item=392008588&perks=3619207468,4290541820
+dimwishlist:item=392008588&perks=3619207468,2939589096
+dimwishlist:item=392008588&perks=3619207468,365154968
+dimwishlist:item=392008588&perks=3619207468,2610012052
+dimwishlist:item=392008588&perks=3619207468,831391274
+dimwishlist:item=392008588&perks=3198323828,102912326
+dimwishlist:item=392008588&perks=3198323828,4290541820
+dimwishlist:item=392008588&perks=3198323828,2939589096
+dimwishlist:item=392008588&perks=3198323828,365154968
+dimwishlist:item=392008588&perks=3198323828,2610012052
+dimwishlist:item=392008588&perks=3198323828,831391274
+dimwishlist:item=392008588&perks=424370782,102912326
+dimwishlist:item=392008588&perks=424370782,4290541820
+dimwishlist:item=392008588&perks=424370782,2939589096
+dimwishlist:item=392008588&perks=424370782,365154968
+dimwishlist:item=392008588&perks=424370782,2610012052
+dimwishlist:item=392008588&perks=424370782,831391274
+
+
+// Royal Executioner - Royal Executioner (mkb,pve)
+//notes: Datto (PvE, MKB): "Something that looks quite appealing is Envious Assassin and Reservoir Burst. You overflow the magazine, you're getting bonus burst shots, what's not to love about that? And Envious makes a bit more sense on this gun vs. a primary weapon because the primary weapon is the thing you'll be using the most, at least in theory anyway. Or you're using a machine gun, but the concept is the same. The only other thing I'd want is maybe trying out Incandescent instead of Reservoir Burst for some scorch plays, killing two enemies at a time can spread scorch quite quickly. If you wanna do some PvP, Firmly Planted is the way to go in the first column. Arrowhead Brake, Accelerated Coils or Enhanced Battery and masterwork... reload speed probably."|tags:mkb,pve
+dimwishlist:item=1720503118&perks=424370782,254337357
+dimwishlist:item=1720503118&perks=424370782,2675184851
+dimwishlist:item=1720503118&perks=424370782,617966211
+dimwishlist:item=1720503118&perks=424370782,1427256713
+dimwishlist:item=1720503118&perks=424370782,4293542123
+dimwishlist:item=1720503118&perks=424370782,2652708987
+dimwishlist:item=1720503118&perks=3442762221,254337357
+dimwishlist:item=1720503118&perks=3442762221,2675184851
+dimwishlist:item=1720503118&perks=3442762221,617966211
+dimwishlist:item=1720503118&perks=3442762221,1427256713
+dimwishlist:item=1720503118&perks=3442762221,4293542123
+dimwishlist:item=1720503118&perks=3442762221,2652708987
+dimwishlist:item=1720503118&perks=968510818,254337357
+dimwishlist:item=1720503118&perks=968510818,2675184851
+dimwishlist:item=1720503118&perks=968510818,617966211
+dimwishlist:item=1720503118&perks=968510818,1427256713
+dimwishlist:item=1720503118&perks=968510818,4293542123
+dimwishlist:item=1720503118&perks=968510818,2652708987
+dimwishlist:item=1720503118&perks=1556840489,254337357
+dimwishlist:item=1720503118&perks=1556840489,2675184851
+dimwishlist:item=1720503118&perks=1556840489,617966211
+dimwishlist:item=1720503118&perks=1556840489,1427256713
+dimwishlist:item=1720503118&perks=1556840489,4293542123
+dimwishlist:item=1720503118&perks=1556840489,2652708987
+
+
+// Caretaker - Caretaker (mkb,pve)
+//notes: Datto (PvE, MKB): "First column, we do have Relentless Strikes still here, I am also noticing Tireless Blade as well, both ammo restoring perks, Relentless good for boss, Tireless for adds, but Relentless is also pretty good for adds. Second column, Valiant Charge is leading the way right now and beyond the Eager Edgelords trying out some new tech, I'm not exactly sure the viability of this outside of the movement tech world. Pretty much everything else that you can get on this thing is definitely viable in some form. Assassin's Blade, more damage after kill, Incandescent, it's Incandescent and on a sword, it's probably gonna treat you pretty well. Surrounded, more damage, One for All, more damage, I love One for All in general. If I'm making this thing, I'm just going like Relentless Strikes and One for All or something because I don't guard with swords, I go unga bunga with swords, just swipe swipe swipe until they die or I die. I got Eager Edge on something else if I want it. Balanced Guard is good, Hungry Edge also good."|tags:mkb,pve
+dimwishlist:item=2508948099&perks=2590710093,4293542123
+dimwishlist:item=2508948099&perks=2590710093,354401740
+dimwishlist:item=2508948099&perks=2590710093,3708227201
+dimwishlist:item=2508948099&perks=2590710093,781192741
+dimwishlist:item=2508948099&perks=2590710093,3678483220
+dimwishlist:item=2508948099&perks=2590710093,2675184851
+dimwishlist:item=2508948099&perks=1749209109,4293542123
+dimwishlist:item=2508948099&perks=1749209109,354401740
+dimwishlist:item=2508948099&perks=1749209109,3708227201
+dimwishlist:item=2508948099&perks=1749209109,781192741
+dimwishlist:item=2508948099&perks=1749209109,3678483220
+dimwishlist:item=2508948099&perks=1749209109,2675184851
+dimwishlist:item=2508948099&perks=4085959009,4293542123
+dimwishlist:item=2508948099&perks=4085959009,354401740
+dimwishlist:item=2508948099&perks=4085959009,3708227201
+dimwishlist:item=2508948099&perks=4085959009,781192741
+dimwishlist:item=2508948099&perks=4085959009,3678483220
+dimwishlist:item=2508948099&perks=4085959009,2675184851
+dimwishlist:item=2508948099&perks=4183521337,4293542123
+dimwishlist:item=2508948099&perks=4183521337,354401740
+dimwishlist:item=2508948099&perks=4183521337,3708227201
+dimwishlist:item=2508948099&perks=4183521337,781192741
+dimwishlist:item=2508948099&perks=4183521337,3678483220
+dimwishlist:item=2508948099&perks=4183521337,2675184851
+
+
 // taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep54-lightfall-neomuna-weapons.txt
 
 @title:Season 20 Neomuna weapons
