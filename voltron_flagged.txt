@@ -1,6 +1,249 @@
 title:Stripped voltron
 description:DIM's default wishlist, but with perks only from 3rd and 4th column. https://github.com/imax9000/dim-wish-list-sources/
 
+title:TheAlpacalypse's Raid Rolls
+
+// Nessa's Oblation - Nessa's Oblation (mnk,pve)
+//notes: This is the roll to farm for. FTTC gives fantastic uptime for extended damage phases, and Reconstruction is great for overloading the mag for shorter ones. Vorpal weapon will turn this into a boss shredding machine. FTTC/Vorpal is the preferred roll. This should nearly entirely supplant First In, Last Out for your energy slug shotgun needs. [3rd&4th columns only]|tags:mnk,pve
+dimwishlist:item=135029084&perks=848860060,1546637391
+dimwishlist:item=135029084&perks=848860060,3007133316
+dimwishlist:item=135029084&perks=848860060,3418165135
+dimwishlist:item=135029084&perks=848860060,4104185692
+dimwishlist:item=135029084&perks=461595545,1546637391
+dimwishlist:item=135029084&perks=461595545,3007133316
+dimwishlist:item=135029084&perks=461595545,3418165135
+dimwishlist:item=135029084&perks=461595545,4104185692
+dimwishlist:item=135029084&perks=1354429876,1546637391
+dimwishlist:item=135029084&perks=1354429876,3007133316
+dimwishlist:item=135029084&perks=1354429876,3418165135
+dimwishlist:item=135029084&perks=1354429876,4104185692
+dimwishlist:item=135029084&perks=1523832109,1546637391
+dimwishlist:item=135029084&perks=1523832109,3007133316
+dimwishlist:item=135029084&perks=1523832109,3418165135
+dimwishlist:item=135029084&perks=1523832109,4104185692
+
+
+// Nessa's Oblation - Nessa's Oblation (mnk,pve)
+//notes: Nessa's can also roll with a "Budget No Backup Plans" roll. This will give an over shield on every kill. [3rd&4th columns only]|tags:mnk,pve
+dimwishlist:item=135029084&perks=776531651,1926441324
+dimwishlist:item=135029084&perks=776531651,2048641572
+dimwishlist:item=135029084&perks=2541826827,1926441324
+dimwishlist:item=135029084&perks=2541826827,2048641572
+
+
+// Nessa's Oblation - Nessa's Oblation (pvp,mnk)
+//notes: Nessa's can also roll with a "Budget No Backup Plans" roll. This will give an over shield on every kill. [3rd&4th columns only]|tags:mnk,pve
+dimwishlist:item=135029084&perks=3523296417,47981717
+
+
+// Mykel's Reverence - Mykel's Reverence (mnk,pve)
+//notes: For PvE, Reload Speed becomes one of the most desired stats for Mykel’s Reverence. Hence, Flared Magwell or Alloy Mag are the two best options. The choice of barrel matters significantly less for PvE and isn’t something to worry about. However, the go-to option is still Hammer-Forged. The best column 1 perks are Thresh or Pugilist, and the best column 2 perks are Swashbuckler and Hatchling. Hatchling is the best choice if you are using a strand subclass. [3rd&4th columns only]|tags:mnk,pve
+dimwishlist:item=231031173&perks=2726471870,1161469972
+dimwishlist:item=231031173&perks=2726471870,4082225868
+dimwishlist:item=231031173&perks=2726471870,102912326
+dimwishlist:item=231031173&perks=2726471870,831391274
+dimwishlist:item=231031173&perks=1172413778,1161469972
+dimwishlist:item=231031173&perks=1172413778,4082225868
+dimwishlist:item=231031173&perks=1172413778,102912326
+dimwishlist:item=231031173&perks=1172413778,831391274
+dimwishlist:item=231031173&perks=691659142,1161469972
+dimwishlist:item=231031173&perks=691659142,4082225868
+dimwishlist:item=231031173&perks=691659142,102912326
+dimwishlist:item=231031173&perks=691659142,831391274
+dimwishlist:item=231031173&perks=536173722,1161469972
+dimwishlist:item=231031173&perks=536173722,4082225868
+dimwishlist:item=231031173&perks=536173722,102912326
+dimwishlist:item=231031173&perks=536173722,831391274
+
+
+// Mykel's Reverence - Mykel's Reverence (mnk,pvp)
+//notes: Due to its high base stability, you want to focus on getting as much range as possible. This makes Hammer-Forged Rifling, Full Bore, or Small Bore the best barrels. For magazine options: Ricochet or High-Caliber Rounds for the extra range with bonuses to stability/increasing flinch, respectively. The best perk in the first column is Perpetual Motion due to the bonus effects it grants when moving. The second column of perks has a wider range of perks that can be used. For general use, Swashbuckler or Tap the Trigger are the go-to options. Strand users can find great value in the Hatchling perk. [3rd&4th columns only]|tags:mnk,pvp
+dimwishlist:item=231031173&perks=1428297954,1161469972
+dimwishlist:item=231031173&perks=1428297954,1523649716
+dimwishlist:item=231031173&perks=1428297954,1890422124
+dimwishlist:item=231031173&perks=1428297954,4082225868
+dimwishlist:item=231031173&perks=2014892510,1161469972
+dimwishlist:item=231031173&perks=2014892510,1523649716
+dimwishlist:item=231031173&perks=2014892510,1890422124
+dimwishlist:item=231031173&perks=2014892510,4082225868
+
+
+// Rufus's Fury - Rufus's Fury (pve,mnk)
+//notes: This auto rifle is a powerhouse in PvE. For main stats, you’ll want the same ones we mentioned above—stability and range. Therefore, the first two columns of traits won’t change. As for the perks, you can go a couple of different ways here. Reconstruction and Target Lock won’t do you wrong if you want a pure workhorse weapon. But if you’re looking for excellent Strand synergy, Demolitionist and Hatchling is easily the best choice. [3rd&4th columns only]|tags:pve,mnk
+dimwishlist:item=484515708&perks=3418782618,365154968
+dimwishlist:item=484515708&perks=3418782618,4104185692
+dimwishlist:item=484515708&perks=3418782618,2939589096
+dimwishlist:item=484515708&perks=3418782618,3007133316
+dimwishlist:item=484515708&perks=3418782618,102912326
+dimwishlist:item=484515708&perks=3418782618,831391274
+dimwishlist:item=484515708&perks=1563455254,365154968
+dimwishlist:item=484515708&perks=1563455254,4104185692
+dimwishlist:item=484515708&perks=1563455254,2939589096
+dimwishlist:item=484515708&perks=1563455254,3007133316
+dimwishlist:item=484515708&perks=1563455254,102912326
+dimwishlist:item=484515708&perks=1563455254,831391274
+dimwishlist:item=484515708&perks=3523296417,365154968
+dimwishlist:item=484515708&perks=3523296417,4104185692
+dimwishlist:item=484515708&perks=3523296417,2939589096
+dimwishlist:item=484515708&perks=3523296417,3007133316
+dimwishlist:item=484515708&perks=3523296417,102912326
+dimwishlist:item=484515708&perks=3523296417,831391274
+dimwishlist:item=484515708&perks=1906147653,365154968
+dimwishlist:item=484515708&perks=1906147653,4104185692
+dimwishlist:item=484515708&perks=1906147653,2939589096
+dimwishlist:item=484515708&perks=1906147653,3007133316
+dimwishlist:item=484515708&perks=1906147653,102912326
+dimwishlist:item=484515708&perks=1906147653,831391274
+
+
+// Rufus's Fury - Rufus's Fury (mnk,pvp)
+//notes: While this is more of a PvE pick, Rufus’s Fury can also hold its own in PvP. To start, you’ll want to focus on high stability and range; Polygonal Rifling, Hammer-Forged Rifling, and Ricochet Rounds are great for this. Perpetual Motion is best for Perk One, while Target Lock is great for your second. [3rd&4th columns only]|tags:mnk,pvp
+dimwishlist:item=484515708&perks=1428297954,2939589096
+dimwishlist:item=484515708&perks=1428297954,365154968
+dimwishlist:item=484515708&perks=2014892510,2939589096
+dimwishlist:item=484515708&perks=2014892510,365154968
+
+
+// Acasia's Dejection - Acasia's Dejection (pve,mnk)
+//notes: For PvE, the standard roll will be Rewind Rounds and Incandescent. However, you can opt for Reconstruction and Frenzy instead. You don’t have to worry about the Barrel and Battery too much. However, Fluted Barrel and Enhanced Battery would be the best if you wanted to optimize. Vorpal is also not a bad option. [3rd&4th columns only]|tags:pve,mnk
+dimwishlist:item=1471212226&perks=461595545,3418165135
+dimwishlist:item=1471212226&perks=461595545,2675184851
+dimwishlist:item=1471212226&perks=461595545,2939589096
+dimwishlist:item=1471212226&perks=461595545,1546637391
+dimwishlist:item=1471212226&perks=461595545,4293542123
+dimwishlist:item=1471212226&perks=461595545,365154968
+dimwishlist:item=1471212226&perks=461595545,3007133316
+dimwishlist:item=1471212226&perks=461595545,4104185692
+dimwishlist:item=1471212226&perks=1563455254,3418165135
+dimwishlist:item=1471212226&perks=1563455254,2675184851
+dimwishlist:item=1471212226&perks=1563455254,2939589096
+dimwishlist:item=1471212226&perks=1563455254,1546637391
+dimwishlist:item=1471212226&perks=1563455254,4293542123
+dimwishlist:item=1471212226&perks=1563455254,365154968
+dimwishlist:item=1471212226&perks=1563455254,3007133316
+dimwishlist:item=1471212226&perks=1563455254,4104185692
+dimwishlist:item=1471212226&perks=1523832109,3418165135
+dimwishlist:item=1471212226&perks=1523832109,2675184851
+dimwishlist:item=1471212226&perks=1523832109,2939589096
+dimwishlist:item=1471212226&perks=1523832109,1546637391
+dimwishlist:item=1471212226&perks=1523832109,4293542123
+dimwishlist:item=1471212226&perks=1523832109,365154968
+dimwishlist:item=1471212226&perks=1523832109,3007133316
+dimwishlist:item=1471212226&perks=1523832109,4104185692
+dimwishlist:item=1471212226&perks=3418782618,3418165135
+dimwishlist:item=1471212226&perks=3418782618,2675184851
+dimwishlist:item=1471212226&perks=3418782618,2939589096
+dimwishlist:item=1471212226&perks=3418782618,1546637391
+dimwishlist:item=1471212226&perks=3418782618,4293542123
+dimwishlist:item=1471212226&perks=3418782618,365154968
+dimwishlist:item=1471212226&perks=3418782618,3007133316
+dimwishlist:item=1471212226&perks=3418782618,4104185692
+
+
+// Acasia's Dejection - Acasia's Dejection (mnk,pvp)
+//notes: For PvP, there aren’t too many great picks. Perpetual Motion and High-Impact Reserves will typically be the best option, though, as you will have High Impact Reserves active quite often in PvP. [3rd&4th columns only]|tags:mnk,pvp
+dimwishlist:item=1471212226&perks=1428297954,2002547233
+dimwishlist:item=1471212226&perks=1428297954,2213355989
+dimwishlist:item=1471212226&perks=2014892510,2002547233
+dimwishlist:item=1471212226&perks=2014892510,2213355989
+
+
+// Briar's Contempt - Briar's Contempt (mnk,pve)
+//notes: DPS is the best-suited job for Briar’s Contempt inside PvE. Fluted Barrel is still the best option due to the large increase in handling. This means a faster swapping speed which can be crucial to maximizing DPS. For the magazine, either Liquid Coils or Ionized Battery are the best choices. Liquid Coils grant an increase in impact, resulting in higher damage per shot. Ionized Battery adds an additional round to the magazine, which helps during longer DPS phases. The best perks in column 1 are Rewind Rounds, Demolionist, and Reconstruction. All three perks grant reloading effects/increase total magazine size, which removes/lowers the need to manually reload the gun. This is great for sustained damage. Frenzy and Focused Fury are the best column 2 perks due to the increase in damage that they provide. Surrounded can situationally be the best option, but the requirements to activate it can be difficult. [3rd&4th columns only]|tags:mnk,pve
+dimwishlist:item=1491665733&perks=461595545,2402480669
+dimwishlist:item=1491665733&perks=461595545,3007133316
+dimwishlist:item=1491665733&perks=461595545,4104185692
+dimwishlist:item=1491665733&perks=461595545,2896038713
+dimwishlist:item=1491665733&perks=1523832109,2402480669
+dimwishlist:item=1491665733&perks=1523832109,3007133316
+dimwishlist:item=1491665733&perks=1523832109,4104185692
+dimwishlist:item=1491665733&perks=1523832109,2896038713
+dimwishlist:item=1491665733&perks=3418782618,2402480669
+dimwishlist:item=1491665733&perks=3418782618,3007133316
+dimwishlist:item=1491665733&perks=3418782618,4104185692
+dimwishlist:item=1491665733&perks=3418782618,2896038713
+dimwishlist:item=1491665733&perks=1563455254,2402480669
+dimwishlist:item=1491665733&perks=1563455254,3007133316
+dimwishlist:item=1491665733&perks=1563455254,4104185692
+dimwishlist:item=1491665733&perks=1563455254,2896038713
+dimwishlist:item=1491665733&perks=1906147653,2402480669
+dimwishlist:item=1491665733&perks=1906147653,3007133316
+dimwishlist:item=1491665733&perks=1906147653,4104185692
+dimwishlist:item=1491665733&perks=1906147653,2896038713
+dimwishlist:item=1491665733&perks=3523296417,2402480669
+dimwishlist:item=1491665733&perks=3523296417,3007133316
+dimwishlist:item=1491665733&perks=3523296417,4104185692
+dimwishlist:item=1491665733&perks=3523296417,2896038713
+
+
+// Briar's Contempt - Briar's Contempt (pvp,mnk)
+//notes: For PvP, handling and accuracy are the two most important factors for a linear fusion rifle. Hence, Fluted Barrel is the best barrel due to the large bump in handling. Particle Repeater or Projection Fuse are the best magazine choices due to the flat bump in stats they give to stability/range, respectively. For column 1 perks, Keep Away is the stand-out choice. Keep Away provides several buffs for keeping your distance, most noticeably an increase in weapon accuracy. Paired with High Impact Reserves makes Briar’s Contempt a good option for a ranged heavy. [3rd&4th columns only]|tags:pvp,mnk
+dimwishlist:item=1491665733&perks=3619207468,2213355989
+dimwishlist:item=1491665733&perks=3619207468,2002547233
+dimwishlist:item=1491665733&perks=3198323828,2213355989
+dimwishlist:item=1491665733&perks=3198323828,2002547233
+
+
+// Koraxis's Distress - Koraxis's Distress (pve,mnk)
+//notes: Koraxis’s Distress performs a lot better in PvE, with a couple of options for good rolls you can get. Quick or Hard Launch and Spike Grenades are no-brainers for the first and second columns, greatly benefitting your damage and velocity. As for main perks, Demolitionist and Hatchling are great for Strand builds. If you’re looking for a more general roll, Field Prep or Reconstruction with Full Court is your best bet. [3rd&4th columns only]|tags:pve,mnk
+dimwishlist:item=2972949637&perks=461595545,3007133316
+dimwishlist:item=2972949637&perks=461595545,4104185692
+dimwishlist:item=2972949637&perks=461595545,102912326
+dimwishlist:item=2972949637&perks=461595545,831391274
+dimwishlist:item=2972949637&perks=461595545,2888557110
+dimwishlist:item=2972949637&perks=461595545,1905598698
+dimwishlist:item=2972949637&perks=1906147653,3007133316
+dimwishlist:item=2972949637&perks=1906147653,4104185692
+dimwishlist:item=2972949637&perks=1906147653,102912326
+dimwishlist:item=2972949637&perks=1906147653,831391274
+dimwishlist:item=2972949637&perks=1906147653,2888557110
+dimwishlist:item=2972949637&perks=1906147653,1905598698
+dimwishlist:item=2972949637&perks=2308090567,3007133316
+dimwishlist:item=2972949637&perks=2308090567,4104185692
+dimwishlist:item=2972949637&perks=2308090567,102912326
+dimwishlist:item=2972949637&perks=2308090567,831391274
+dimwishlist:item=2972949637&perks=2308090567,2888557110
+dimwishlist:item=2972949637&perks=2308090567,1905598698
+dimwishlist:item=2972949637&perks=1523832109,3007133316
+dimwishlist:item=2972949637&perks=1523832109,4104185692
+dimwishlist:item=2972949637&perks=1523832109,102912326
+dimwishlist:item=2972949637&perks=1523832109,831391274
+dimwishlist:item=2972949637&perks=1523832109,2888557110
+dimwishlist:item=2972949637&perks=1523832109,1905598698
+dimwishlist:item=2972949637&perks=3523296417,3007133316
+dimwishlist:item=2972949637&perks=3523296417,4104185692
+dimwishlist:item=2972949637&perks=3523296417,102912326
+dimwishlist:item=2972949637&perks=3523296417,831391274
+dimwishlist:item=2972949637&perks=3523296417,2888557110
+dimwishlist:item=2972949637&perks=3523296417,1905598698
+dimwishlist:item=2972949637&perks=2869569095,3007133316
+dimwishlist:item=2972949637&perks=2869569095,4104185692
+dimwishlist:item=2972949637&perks=2869569095,102912326
+dimwishlist:item=2972949637&perks=2869569095,831391274
+dimwishlist:item=2972949637&perks=2869569095,2888557110
+dimwishlist:item=2972949637&perks=2869569095,1905598698
+dimwishlist:item=2972949637&perks=968510818,3007133316
+dimwishlist:item=2972949637&perks=968510818,4104185692
+dimwishlist:item=2972949637&perks=968510818,102912326
+dimwishlist:item=2972949637&perks=968510818,831391274
+dimwishlist:item=2972949637&perks=968510818,2888557110
+dimwishlist:item=2972949637&perks=968510818,1905598698
+dimwishlist:item=2972949637&perks=424370782,3007133316
+dimwishlist:item=2972949637&perks=424370782,4104185692
+dimwishlist:item=2972949637&perks=424370782,102912326
+dimwishlist:item=2972949637&perks=424370782,831391274
+dimwishlist:item=2972949637&perks=424370782,2888557110
+dimwishlist:item=2972949637&perks=424370782,1905598698
+
+
+// Koraxis's Distress - Koraxis's Distress (mnk,pvp)
+//notes: In PvP, we’ll start with Linear Compensator and Proximity Grenades to benefit a wide variety of stats. Impulse Amplifier is the best choice for perk one, as all other perks tend to be more PvE-centric. For the final column, there really aren’t any standouts; Wellspring is best, but that isn’t saying much at all. [3rd&4th columns only]|tags:mnk,pvp
+dimwishlist:item=2972949637&perks=951095735,3592538738
+dimwishlist:item=2972949637&perks=951095735,2675361166
+dimwishlist:item=2972949637&perks=3878366039,3592538738
+dimwishlist:item=2972949637&perks=3878366039,2675361166
+
+
 // taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep56-season-of-defiance-foundry-weapons.txt
 
 @title:Season of Defiance Devrim Kay VIII and Foundry weapons
