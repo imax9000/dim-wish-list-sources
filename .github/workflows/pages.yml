@@ -42,7 +42,14 @@ jobs:
           ref: master
           path: master
       - name: Fetch Destiny 2 item database
-        run: ./fetch_manifest.sh manifest.json
+        run: |
+          i=0
+          while ! ./fetch_manifest.sh manifest.json; do
+            i=$(($i + 1))
+            if [ $i -ge 3 ]; then
+              exit 1
+            fi
+          done
       - name: Setup Go compiler
         uses: actions/setup-go@v7
         with:
