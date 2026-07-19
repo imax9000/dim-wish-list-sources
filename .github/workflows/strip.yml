@@ -20,16 +20,16 @@ jobs:
       pages: write
       contents: write
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v7
       - name: Checkout master branch into a subdir
-        uses: actions/checkout@v3
+        uses: actions/checkout@v7
         with:
           ref: master
           path: master
       - name: Fetch Destiny 2 item database
         run: ./fetch_manifest.sh manifest.json
       - name: Setup Go compiler
-        uses: actions/setup-go@v3
+        uses: actions/setup-go@v7
         with:
           go-version: '>=1.17.0'
       - name: Generate new wishlist with perks only from 3rd and 4th columns
@@ -48,7 +48,7 @@ jobs:
             --append_to_notes=" [3rd&4th columns only]" \
             > voltron_flagged.txt
       - name: Checkout generated branch into a subdir
-        uses: actions/checkout@v3
+        uses: actions/checkout@v7
         with:
           ref: generated
           path: generated

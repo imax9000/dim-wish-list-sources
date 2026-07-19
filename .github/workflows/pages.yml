@@ -26,9 +26,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v7
       - name: Setup Pages
-        uses: actions/configure-pages@v1
+        uses: actions/configure-pages@v6
       - name: Create Jekyll output dir upfront to avoid permission issues
         run: mkdir _site
       - name: Build with Jekyll
@@ -37,14 +37,14 @@ jobs:
           source: ./
           destination: ./_site
       - name: Checkout master branch into a subdir
-        uses: actions/checkout@v3
+        uses: actions/checkout@v7
         with:
           ref: master
           path: master
       - name: Fetch Destiny 2 item database
         run: ./fetch_manifest.sh manifest.json
       - name: Setup Go compiler
-        uses: actions/setup-go@v3
+        uses: actions/setup-go@v7
         with:
           go-version: '>=1.17.0'
       - name: Generate new wishlist with perks only from 3rd and 4th columns
@@ -63,7 +63,7 @@ jobs:
             --append_to_notes=" [3rd&4th columns only]" \
             > ./_site/voltron_flagged.txt
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v5
 
   # Deployment job
   deploy:
@@ -75,4 +75,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v1
+        uses: actions/deploy-pages@v5
