@@ -10934,19 +10934,19 @@ dimwishlist:item=601574723&perks=691659142,4104185692
 // Psychopomp - Endgame God
 // Quick Launch, High-Velocity Rounds, (Ambitious Assassin, Pugilist), Frenzy
 //notes:Inspired by @PodvsEnemies episode 129 from 4 February 2024 (https://open.spotify.com/episode/19eFPPXbMv7cC0w8kJ234H?si=d61c9144b9aa4974) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for clearing Minor add crowds in general, and end-game underleveled content. Psychopomp adds an S-Tier arc option to the lineup of area denial frame grenade launchers. At base, the stats are in-band - at the time of writing, D2Foundry isn't showing the in-game stats, but hopefully they'll be added in soon. With 0/1/2/3 reserves mods, total ammo is 24/25/25/25 (max 25). Quick Launch as the barrel perk boosts both Handling and Velocity, and the High-Velocity Rounds magazine perk adds more Velocity with Reload Speed. In the first trait perk column, Ambitious Assassin overflows the magazine for two shots from a reload after a kill, as can the Runneth Over origin trait when you're with 15m of at least one other ally and, when the stars align, they can both proc for a physics-defying three in the tube. Alternatively, for melee builds, you gain 20% ability energy per kill from Pugilist. In the second column, Frenzy maxes out Handling and Reload Speed and boosts damage by ×1.15 just for being in combat. Runneth Over is probably the more immediately useful origin trait, overflowing your magazine by 10% of base magazine capacity per nearby ally (up to 5) when reloading. Recommended MW: Handling or Stability, with a Quick Access Sling mod or, when masterworked, Synergy to create Ionic Traces or, when the artifact mod's around, Stunloader. Also, don't forget to check whether there's a useful Seasonal Fragile mod for the activity you're running. [3rd&4th columns only]|tags:PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
-dimwishlist:item=4028298892&perks=2010801679,4104185692
-dimwishlist:item=4028298892&perks=691659142,4104185692
 dimwishlist:item=3840794631&perks=2010801679,4104185692
 dimwishlist:item=3840794631&perks=691659142,4104185692
+dimwishlist:item=4028298892&perks=2010801679,4104185692
+dimwishlist:item=4028298892&perks=691659142,4104185692
 
 
 // Psychopomp (Adept) - Endgame god
 // Quick Launch, High-Velocity Rounds, (Ambitious Assassin, Pugilist), Frenzy
 //notes:Inspired by @PodvsEnemies episode 129 from 4 February 2024 (https://open.spotify.com/episode/19eFPPXbMv7cC0w8kJ234H?si=d61c9144b9aa4974) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for clearing Minor add crowds in general, and end-game underleveled content. Psychopomp adds an S-Tier arc option to the lineup of area denial frame grenade launchers. At base, the stats are in-band - at the time of writing, D2Foundry isn't showing the in-game stats, but hopefully they'll be added in soon. With 0/1/2/3 reserves mods, total ammo is 24/25/25/25 (max 25). Quick Launch as the barrel perk boosts both Handling and Velocity, and the High-Velocity Rounds magazine perk adds more Velocity with Reload Speed. In the first trait perk column, Ambitious Assassin overflows the magazine for two shots from a reload after a kill, as can the Runneth Over origin trait when you're with 15m of at least one other ally and, when the stars align, they can both proc for a physics-defying three in the tube. Alternatively, for melee builds, you gain 20% ability energy per kill from Pugilist. In the second column, Frenzy maxes out Handling and Reload Speed and boosts damage by ×1.15 just for being in combat. Runneth Over is probably the more immediately useful origin trait, overflowing your magazine by 10% of base magazine capacity per nearby ally (up to 5) when reloading. Recommended MW: Handling or Stability, with a Quick Access Sling mod or, when masterworked, Synergy to create Ionic Traces or, when the artifact mod's around, Stunloader. Also, don't forget to check whether there's a useful Seasonal Fragile mod for the activity you're running. [3rd&4th columns only]|tags:PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
-dimwishlist:item=2553380021&perks=2010801679,4104185692
-dimwishlist:item=2553380021&perks=691659142,4104185692
 dimwishlist:item=704410186&perks=2010801679,4104185692
 dimwishlist:item=704410186&perks=691659142,4104185692
+dimwishlist:item=2553380021&perks=2010801679,4104185692
+dimwishlist:item=2553380021&perks=691659142,4104185692
 
 
 // Eyes Unveiled - Endgame sustained damage god 1
