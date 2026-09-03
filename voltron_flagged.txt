@@ -10911,15 +10911,6 @@ dimwishlist:item=601574723&perks=692399809,4104185692
 // Adamantite (Adept) - General god
 // (Fluted Barrel, Arrowhead Brake), (Tactical Mag, Alloy Mag, Flared Magwell, Appended Mag, Accurized Rounds), (Unrelenting, Demolitionist, Pugilist), (Circle of Life, Attrition Orbs, Frenzy)
 //notes:Inspired by @PodvsEnemies episode 129 from 4 February 2024 (https://open.spotify.com/episode/19eFPPXbMv7cC0w8kJ234H?si=d61c9144b9aa4974) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-Utility PvE-MinorSpec PvE-God M+KB Controller): First-choice PvE pick for healing utility and use against Minor adds in general non-underleveled content. Adamantite is the second support-frame AR in game, and the first equippable in the kinetic slot, which both heals allies, improves their damage and spawns unravelling projectiles, making it a good, fun weapon to use. At base, the stats are a bit low - 39 Range equates to 25.00m ADS and 15.63m hipfire, 49 Stability is ×1.1816 flinch resist at 100 Resilience, 70 Handling is 0.32s ready, 0.26s ADS and 0.30s stow speed, 66 Reload Speed is a 1.58s reload and Recoil Direction is 52. The barrel perk can be used to improve the Recoil Direction or Stability on controller and handling on M+KB, and the magazine perk can be used to provide a bit more reload speed or extra rounds. The first trait perk column is strong for PvE, and for general content Unrelenting provides you with 65HP healing for killing 3 Minor adds with 5s of each other, or Demolitionist and Pugilist provide ability energy for grenade and melee builds. In the second column, pairing this with Circle of Life, for ×1.25 damage for 10s after rapidly healing an ally, Attrition Orbs to power armor mods or Frenzy for maxed Handling and Reload Speed stats and ×1.15 when in combat are all excellent choices. Runneth Over is probably the more immediately useful origin trait, overflowing your magazine by 10% of base magazine capacity per nearby ally (up to 5) when reloading. Recommended MW: Handling or Stability, with an Adept Backup Mag mod or, when masterworked, Synergy to create Strand Tangles or, when the artifact mod's around, Stunloader. Also, don't forget to check whether there's a useful Seasonal Fragile mod for the activity you're running. [3rd&4th columns only]|tags:PvE PvE-Utility PvE-MinorSpec PvE-God M+KB Controller
-dimwishlist:item=601574723&perks=3108830275,2298656195
-dimwishlist:item=601574723&perks=3108830275,243981275
-dimwishlist:item=601574723&perks=3108830275,4104185692
-dimwishlist:item=601574723&perks=3523296417,2298656195
-dimwishlist:item=601574723&perks=3523296417,243981275
-dimwishlist:item=601574723&perks=3523296417,4104185692
-dimwishlist:item=601574723&perks=691659142,2298656195
-dimwishlist:item=601574723&perks=691659142,243981275
-dimwishlist:item=601574723&perks=691659142,4104185692
 dimwishlist:item=3485029080&perks=3108830275,2298656195
 dimwishlist:item=3485029080&perks=3108830275,243981275
 dimwishlist:item=3485029080&perks=3108830275,4104185692
@@ -10929,6 +10920,15 @@ dimwishlist:item=3485029080&perks=3523296417,4104185692
 dimwishlist:item=3485029080&perks=691659142,2298656195
 dimwishlist:item=3485029080&perks=691659142,243981275
 dimwishlist:item=3485029080&perks=691659142,4104185692
+dimwishlist:item=601574723&perks=3108830275,2298656195
+dimwishlist:item=601574723&perks=3108830275,243981275
+dimwishlist:item=601574723&perks=3108830275,4104185692
+dimwishlist:item=601574723&perks=3523296417,2298656195
+dimwishlist:item=601574723&perks=3523296417,243981275
+dimwishlist:item=601574723&perks=3523296417,4104185692
+dimwishlist:item=601574723&perks=691659142,2298656195
+dimwishlist:item=601574723&perks=691659142,243981275
+dimwishlist:item=601574723&perks=691659142,4104185692
 
 
 // Psychopomp - Endgame God
@@ -11063,10 +11063,10 @@ dimwishlist:item=2856225832&perks=2869569095,3218042543
 // Psychopomp - Endgame God AB build
 // Quick Launch, High-Velocity Rounds, (Ambitious Assassin, Pugilist), Rolling Storm
 //notes:Adamsdown_Boy written v8.2.0.1 (PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for clearing Minor add crowds in general, and end-game underleveled content, particularly wit arc builds. Psychopomp adds an S-Tier arc option to the lineup of area denial frame grenade launchers. At base, the stats are in-band - at the time of writing, D2Foundry isn't showing the in-game stats, but hopefully they'll be added in soon. With 0/1/2/3 reserves mods, total ammo is 24/25/25/25 (max 25). Quick Launch as the barrel perk boosts both Handling and Velocity, and the High-Velocity Rounds magazine perk adds more Velocity with Reload Speed. In the first trait perk column, Ambitious Assassin overflows the magazine for two shots from a reload after a kill, as can the Runneth Over origin trait when you're with 15m of at least one other ally and, when the stars align, they can both proc for a physics-defying three in the tube. Alternatively, for melee builds, you gain 20% ability energy per kill from Pugilist. In the second column, for arc build synergy, Rolling Thunder speeds up accumulation of Bolt Charge, adding a stack on a kill (2 when Amplified) for additional damage from lightning bolts. Runneth Over is probably the more immediately useful origin trait, overflowing your magazine by 10% of base magazine capacity per nearby ally (up to 5) when reloading. Recommended MW: Handling or Stability, with a Quick Access Sling mod or, when masterworked, Synergy to create Ionic Traces or, when the artifact mod's around, Stunloader. Also, don't forget to check whether there's a useful Seasonal Fragile mod for the activity you're running. [3rd&4th columns only]|tags:PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
-dimwishlist:item=4028298892&perks=2010801679,3218042543
-dimwishlist:item=4028298892&perks=691659142,3218042543
 dimwishlist:item=3840794631&perks=2010801679,3218042543
 dimwishlist:item=3840794631&perks=691659142,3218042543
+dimwishlist:item=4028298892&perks=2010801679,3218042543
+dimwishlist:item=4028298892&perks=691659142,3218042543
 
 // Psychopomp (Adept) - Endgame god AB roll
 // Quick Launch, High-Velocity Rounds, (Ambitious Assassin, Pugilist), Rolling Storm
@@ -16249,8 +16249,8 @@ dimwishlist:item=906840740&perks=2869569095,1048183818
 // Unwavering Duty (Adept) (PvE)
 // (Arrowhead Brake, Chambered Compensator, Polygonal Rifling), (Appended Mag, Extended Mag), Field Prep, Adaptive Munitions
 //notes:Adamsdown_Boy - information as at v8.0.0.6 PvE / PvE-Boss / PvE-BossSpec / PvE-EndGame / PvE-God / M+KB / Controller): PvE pick for killing boss-tier Subjugators. As per @mossy_max (https://x.com/mossy_max/status/1804893174965338387) - boss-tier Subjugators have a 20% damage reduction to all non-matching damage, going up to 30% DR to all damage after they "screech", which counts as a shield in-game and reacts to shield-based trait perks. Saint-14 can still focus Unwavering Duty in the Tower Hanger using Trials engrams. First, Arrowhead Brake to help with recoil, or Chambered Compensator or Polygonal Rifling will also to help land consistent crits. Then Tactical Mag with a Backup Mag mod gets you to 75 shots in the mag, or Appended or Extended Mag work too. In the first trait perk column, Field Prep boosts reload speed, but more importantly takes total ammo from 357 to 424. In the second, Adaptive Munitions buffs damage to non-matching Subjugator "shields" for a total damage boost of around +45% after 15 hits (+73% when enhanced). The Alacrity origin trait, if you're soloing content, or One Quiet Moment otherwise to speed up reload are both useful. Recommended MW: Stability, with a Backup Mag mod [3rd&4th columns only]
-dimwishlist:item=2759251821&perks=2869569095,1048183818
 dimwishlist:item=3444632029&perks=2869569095,1048183818
+dimwishlist:item=2759251821&perks=2869569095,1048183818
 
 // Avalanche (PvE)
 // (Arrowhead Brake, Chambered Compensator, Polygonal Rifling), (Tactical Mag, Appended Mag, Extended Mag), Under-Over, (Target Lock, Vorpal Weapon, One For All, Adrenaline Junkie)
